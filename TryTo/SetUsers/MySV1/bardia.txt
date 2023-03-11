@@ -1,0 +1,2 @@
+vless://cd4d0cf8-0c9f-4dcb-a51a-c473ca7a0c4d@itsdecurse.ddns.net:443?encryption=none&security=tls&sni=ss1.tradecouching1.com&type=ws&host=ss1.tradecouching1.com&path=%2Fdownloader%2F31076#Bardia%20%2F%20ADSL%20-%20MCI
+vless://cd4d0cf8-0c9f-4dcb-a51a-c473ca7a0c4d@itsdecurse1.ddns.net:443?encryption=none&security=tls&sni=myown1.heyitsdecurse.xyz&type=ws&host=myown1.heyitsdecurse.xyz&path=%2Fdownloader%2F31076#Bardia%20%2F%20Irancell%20-%20Rightel%20-%20MobinNet
