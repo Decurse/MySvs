@@ -1,0 +1,2 @@
+vless://3e57a899-3785-464e-c615-e72e8f85aa74@itsdecurse.ddns.net:443?encryption=none&security=tls&sni=ss1.tradecouching1.com&type=ws&host=ss1.tradecouching1.com&path=%2Fdownloader%2F38137#Shayesteh%202%20%2F%20ADSL%20-%20MCI
+vless://3e57a899-3785-464e-c615-e72e8f85aa74@itsdecurse1.ddns.net:443?encryption=none&security=tls&sni=myown1.heyitsdecurse.xyz&type=ws&host=myown1.heyitsdecurse.xyz&path=%2Fdownloader%2F38137#Shayesteh%202%20%2F%20Irancell%20-%20Rightel
